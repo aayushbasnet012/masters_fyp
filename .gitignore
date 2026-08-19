@@ -12,6 +12,10 @@ mint_pat_outputs_local/
 # Documents
 *.pdf
 *.docx
+thesis_final_submission*
+
+# Claude Code skills
+.claude/
 
 # OS / editor
 .DS_Store
