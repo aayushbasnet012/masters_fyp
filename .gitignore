@@ -17,6 +17,13 @@ thesis_final_submission*
 # Claude Code skills
 .claude/
 
+# Non-code, non-figure content (text/markdown notes, tables, misc)
+*.md
+*.skill
+AI_content.txt
+
 # OS / editor
 .DS_Store
 *.lnk
+*.tmp
+~$*
