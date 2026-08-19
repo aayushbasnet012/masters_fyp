@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Large generated/data outputs
+output/
+mint_pat_outputs/
+mint_pat_outputs_local/
+
+# Documents
+*.pdf
+*.docx
+
+# OS / editor
+.DS_Store
+*.lnk
